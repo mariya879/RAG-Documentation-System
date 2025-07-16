@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pytesseract
+Pillow
+transformers
+sentence-transformers
+chromadb
+streamlit
+requests
